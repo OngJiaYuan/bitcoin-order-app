@@ -12,4 +12,5 @@ export class Order {
         public address: string,
         public amt: number,
         public id?: string ) { }
+        
 }
